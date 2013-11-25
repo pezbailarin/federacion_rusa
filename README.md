@@ -31,5 +31,5 @@ Demuestra:
 * fragmentos, fragmentManager, reutilización de un fragmento.
 * Orientación del dispositivo.
 
-![Screenshot](https://www.dropbox.com/s/hj8417e4hlp05qg/2013-11-25%2017.17.57.png)
+![Screenshot](https://dl.dropboxusercontent.com/u/2827944/capturas/github/2013-11-25%2017.17.57.png)
 
