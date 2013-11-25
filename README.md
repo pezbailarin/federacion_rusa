@@ -30,3 +30,5 @@ la propia actividad principal.
 Demuestra:
 * fragmentos, fragmentManager, reutilización de un fragmento.
 * Orientación del dispositivo.
+
+![]{https://www.dropbox.com/s/hj8417e4hlp05qg/2013-11-25%2017.17.57.png}
