@@ -1,4 +1,4 @@
-federacion_rusa
+federacion rusa
 ===============
 
 Aprendiendo a programar android.
@@ -19,9 +19,14 @@ Utiliza:
 * Intent
 * startActivity
 * permission INTERNET
+* Fragmentos
 
 Segundo Commit
 ---
 
 Si se trabaja en modo landscape, en lugar de abrir una nueva actividad se carga el webview en un fragmento en
 la propia actividad principal.
+
+Demuestra:
+* fragmentos, fragmentManager, reutilización de un fragmento.
+* Orientación del dispositivo.
