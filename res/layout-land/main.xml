@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:baselineAligned="false"
+              tools.context=".Main"  >
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"/>
+
+    <fragment
+        android:id="@+id/fragmentoDetallePais"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:name="com.example.Prueba_compatible.CountryInfoFragment"
+        android:layout_weight="4"
+        tools:layout="@layout/fragment_country_info"/>
+
+</LinearLayout>
+
