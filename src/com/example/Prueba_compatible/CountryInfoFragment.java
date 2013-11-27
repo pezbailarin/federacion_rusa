@@ -23,6 +23,8 @@ public class CountryInfoFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_country_info, container, false);
         webView = (WebView)view.findViewById(R.id.webView);
+        int altura=getResources().getDisplayMetrics().heightPixels;
+        webView.loadData("<div style=\"  color:#cccccc; text-align:center;\">Selecciona un pa&iacute;s de la lista </div>","text/html", "UTF-8");
         return view;
     }
 

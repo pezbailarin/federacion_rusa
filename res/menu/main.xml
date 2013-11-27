@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Ayuda"
+        android:icon="@drawable/ic_help"
+        android:showAsAction="always"
+        android:id="@+id/mnuHelp"/>
+
+    <item android:title="Compartir"
+        android:icon="@drawable/ic_share"
+        android:showAsAction="always"
+        android:id="@+id/mnuShare"/>
+
+</menu>

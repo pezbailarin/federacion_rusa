@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Ejemplo fragmentos</string>
+    <string name="shareIntent1stPart">"Aquí tienes info sobre "</string>
+    <string name="shareIntent2ndtPart">:
+        http://es.m.wikipedia.org/wiki/
+    </string>
 </resources>
